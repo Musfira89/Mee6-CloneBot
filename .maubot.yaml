@@ -1,0 +1,11 @@
+
+id: xyz.maubot.mee6clone
+version: 1.0.0
+license: AGPL-3.0-or-later
+
+modules:
+  - bot
+main_class: Mee6Clone
+extra_files:
+- base-config.yaml
+dependencies: []
