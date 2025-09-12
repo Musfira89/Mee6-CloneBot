@@ -1,10 +1,7 @@
-
 maubot: 0.1.0
-id: xyz.maubot.botj5
+id: xyz.maubot.abcBot1
 version: 1.0.0
 license: AGPL-3.0-or-later
 modules:
-- botj5
+- abc
 main_class: Mee6
-
-
